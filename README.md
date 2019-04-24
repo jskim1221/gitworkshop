@@ -1,2 +1,3 @@
 # gitworkshop
-Git 
+Git
+First git hub project exercise 
